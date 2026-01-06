@@ -1,0 +1,54 @@
+{
+  "breed_name": "Gir",
+  "origin": {
+    "country": "India",
+    "state_region": "Gujarat",
+    "history": "One of the oldest indigenous dairy breeds known for heat tolerance."
+  },
+  "appearance": {
+    "coat_color": "Red or spotted",
+    "body_size": "Medium to large",
+    "horn_shape": "Long and curved",
+    "ears": "Long and pendulous",
+    "distinctive_features": ["Domed forehead", "Loose skin", "High hump"]
+  },
+  "productivity": {
+    "milk_yield_liters_per_day": 12,
+    "milk_yield_liters_per_lactation": 3000,
+    "milk_fat_percentage": 4.5,
+    "milk_protein_percentage": 3.2,
+    "lactation_period_days": 305,
+    "calving_interval_days": 420
+  },
+  "reproduction": {
+    "age_at_first_calving_months": 36,
+    "gestation_period_days": 280,
+    "breeding_type": "Natural"
+  },
+  "adaptability": {
+    "climate": ["Hot climate", "Dry regions"],
+    "disease_resistance": "High",
+    "terrain_suitability": ["Semi-arid regions"],
+    "management_level": "Moderate"
+  },
+  "strengths": {
+    "draught_power": "Medium",
+    "temperament": "Calm",
+    "endurance": "High"
+  },
+  "feeding": {
+    "daily_dry_matter_kg": {
+      "adult": 10,
+      "young": 4
+    },
+    "preferred_feed": ["Green fodder", "Dry fodder", "Concentrates"]
+  },
+  "health": {
+    "common_diseases": ["Mastitis", "FMD"],
+    "vaccination_required": ["FMD", "HS", "BQ"],
+    "lifespan_years": {
+      "average": 18,
+      "range": "15-20"
+    }
+  }
+}

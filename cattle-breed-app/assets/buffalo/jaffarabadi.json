@@ -1,0 +1,54 @@
+{
+  "breed_name": "Jaffarabadi",
+  "origin": {
+    "country": "India",
+    "state_region": "Gujarat",
+    "history": "Largest buffalo breed known for heavy body weight."
+  },
+  "appearance": {
+    "coat_color": "Black",
+    "body_size": "Very large",
+    "horn_shape": "Drooping and curved backward",
+    "ears": "Large",
+    "distinctive_features": ["Massive head", "Broad body"]
+  },
+  "productivity": {
+    "milk_yield_liters_per_day": 10,
+    "milk_yield_liters_per_lactation": 2500,
+    "milk_fat_percentage": 7.0,
+    "milk_protein_percentage": 4.1,
+    "lactation_period_days": 290,
+    "calving_interval_days": 450
+  },
+  "reproduction": {
+    "age_at_first_calving_months": 40,
+    "gestation_period_days": 310,
+    "breeding_type": "Natural"
+  },
+  "adaptability": {
+    "climate": ["Hot", "Humid"],
+    "disease_resistance": "Moderate",
+    "terrain_suitability": ["Plains"],
+    "management_level": "Medium"
+  },
+  "strengths": {
+    "draught_power": "High",
+    "temperament": "Calm",
+    "endurance": "High"
+  },
+  "feeding": {
+    "daily_dry_matter_kg": {
+      "adult": 13,
+      "young": 6
+    },
+    "preferred_feed": ["Green fodder", "Cottonseed cake"]
+  },
+  "health": {
+    "common_diseases": ["HS", "BQ"],
+    "vaccination_required": ["FMD"],
+    "lifespan_years": {
+      "average": 17,
+      "range": "15-20"
+    }
+  }
+}

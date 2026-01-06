@@ -1,0 +1,54 @@
+{
+  "breed_name": "Pandharpuri",
+  "origin": {
+    "country": "India",
+    "state_region": "Maharashtra",
+    "history": "Famous for long twisted horns."
+  },
+  "appearance": {
+    "coat_color": "Black",
+    "body_size": "Medium",
+    "horn_shape": "Very long and twisted",
+    "ears": "Medium",
+    "distinctive_features": ["Long horns", "Strong legs"]
+  },
+  "productivity": {
+    "milk_yield_liters_per_day": 8,
+    "milk_yield_liters_per_lactation": 2000,
+    "milk_fat_percentage": 6.5,
+    "milk_protein_percentage": 4.0,
+    "lactation_period_days": 290,
+    "calving_interval_days": 420
+  },
+  "reproduction": {
+    "age_at_first_calving_months": 35,
+    "gestation_period_days": 310,
+    "breeding_type": "Natural"
+  },
+  "adaptability": {
+    "climate": ["Hot", "Semi-arid"],
+    "disease_resistance": "High",
+    "terrain_suitability": ["Dry regions"],
+    "management_level": "Low"
+  },
+  "strengths": {
+    "draught_power": "Medium",
+    "temperament": "Alert",
+    "endurance": "High"
+  },
+  "feeding": {
+    "daily_dry_matter_kg": {
+      "adult": 10,
+      "young": 4
+    },
+    "preferred_feed": ["Dry fodder", "Jowar", "Sugarcane"]
+  },
+  "health": {
+    "common_diseases": ["HS"],
+    "vaccination_required": ["HS", "FMD"],
+    "lifespan_years": {
+      "average": 17,
+      "range": "14-19"
+    }
+  }
+}

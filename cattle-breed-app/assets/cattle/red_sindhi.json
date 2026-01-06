@@ -1,0 +1,54 @@
+{
+  "breed_name": "Red Sindhi",
+  "origin": {
+    "country": "India/Pakistan",
+    "state_region": "Sindh",
+    "history": "Famous dairy breed exported worldwide."
+  },
+  "appearance": {
+    "coat_color": "Deep red",
+    "body_size": "Medium",
+    "horn_shape": "Short",
+    "ears": "Medium",
+    "distinctive_features": ["Compact body"]
+  },
+  "productivity": {
+    "milk_yield_liters_per_day": 9,
+    "milk_yield_liters_per_lactation": 2600,
+    "milk_fat_percentage": 5.0,
+    "milk_protein_percentage": 3.4,
+    "lactation_period_days": 280,
+    "calving_interval_days": 420
+  },
+  "reproduction": {
+    "age_at_first_calving_months": 35,
+    "gestation_period_days": 280,
+    "breeding_type": "Natural"
+  },
+  "adaptability": {
+    "climate": ["Hot climate"],
+    "disease_resistance": "High",
+    "terrain_suitability": ["Plains"],
+    "management_level": "High"
+  },
+  "strengths": {
+    "draught_power": "Low",
+    "temperament": "Calm",
+    "endurance": "Medium"
+  },
+  "feeding": {
+    "daily_dry_matter_kg": {
+      "adult": 9,
+      "young": 4
+    },
+    "preferred_feed": ["Green fodder", "Cottonseed cake"]
+  },
+  "health": {
+    "common_diseases": ["Mastitis"],
+    "vaccination_required": ["HS", "BQ"],
+    "lifespan_years": {
+      "average": 18,
+      "range": "15-20"
+    }
+  }
+}

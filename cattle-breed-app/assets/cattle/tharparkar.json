@@ -1,0 +1,54 @@
+{
+  "breed_name": "Tharparkar",
+  "origin": {
+    "country": "India",
+    "state_region": "Rajasthan",
+    "history": "Dual-purpose breed used for both milk and draught."
+  },
+  "appearance": {
+    "coat_color": "White or grey",
+    "body_size": "Medium",
+    "horn_shape": "Upward and curved",
+    "ears": "Medium",
+    "distinctive_features": ["Strong legs", "Compact body"]
+  },
+  "productivity": {
+    "milk_yield_liters_per_day": 8,
+    "milk_yield_liters_per_lactation": 2500,
+    "milk_fat_percentage": 4.2,
+    "milk_protein_percentage": 3.1,
+    "lactation_period_days": 275,
+    "calving_interval_days": 410
+  },
+  "reproduction": {
+    "age_at_first_calving_months": 38,
+    "gestation_period_days": 280,
+    "breeding_type": "Natural"
+  },
+  "adaptability": {
+    "climate": ["Hot climate", "Desert region"],
+    "disease_resistance": "Moderate",
+    "terrain_suitability": ["Desert", "Semi-arid"],
+    "management_level": "Low"
+  },
+  "strengths": {
+    "draught_power": "High",
+    "temperament": "Active",
+    "endurance": "High"
+  },
+  "feeding": {
+    "daily_dry_matter_kg": {
+      "adult": 8,
+      "young": 3
+    },
+    "preferred_feed": ["Dry fodder", "Bajra", "Jowar"]
+  },
+  "health": {
+    "common_diseases": ["FMD"],
+    "vaccination_required": ["FMD", "HS"],
+    "lifespan_years": {
+      "average": 17,
+      "range": "14-20"
+    }
+  }
+}

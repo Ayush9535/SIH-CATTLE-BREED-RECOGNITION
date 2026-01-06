@@ -1,0 +1,54 @@
+{
+  "breed_name": "Kankrej",
+  "origin": {
+    "country": "India",
+    "state_region": "Gujarat, Rajasthan",
+    "history": "Dual-purpose breed known for speed and draught power."
+  },
+  "appearance": {
+    "coat_color": "Silver-grey",
+    "body_size": "Large",
+    "horn_shape": "Lyre-shaped",
+    "ears": "Large",
+    "distinctive_features": ["Strong legs", "Fast draught breed"]
+  },
+  "productivity": {
+    "milk_yield_liters_per_day": 7,
+    "milk_yield_liters_per_lactation": 2300,
+    "milk_fat_percentage": 4.3,
+    "milk_protein_percentage": 3.0,
+    "lactation_period_days": 280,
+    "calving_interval_days": 430
+  },
+  "reproduction": {
+    "age_at_first_calving_months": 40,
+    "gestation_period_days": 280,
+    "breeding_type": "Natural"
+  },
+  "adaptability": {
+    "climate": ["Hot climate"],
+    "disease_resistance": "High",
+    "terrain_suitability": ["Semi-arid"],
+    "management_level": "Low"
+  },
+  "strengths": {
+    "draught_power": "Very high",
+    "temperament": "Active",
+    "endurance": "High"
+  },
+  "feeding": {
+    "daily_dry_matter_kg": {
+      "adult": 11,
+      "young": 4
+    },
+    "preferred_feed": ["Millet", "Dry fodder"]
+  },
+  "health": {
+    "common_diseases": ["Tick fever"],
+    "vaccination_required": ["FMD"],
+    "lifespan_years": {
+      "average": 17,
+      "range": "15-20"
+    }
+  }
+}

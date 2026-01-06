@@ -1,0 +1,54 @@
+{
+  "breed_name": "Sahiwal",
+  "origin": {
+    "country": "India/Pakistan",
+    "state_region": "Punjab region",
+    "history": "High milk-producing zebu breed known for gentle temperament."
+  },
+  "appearance": {
+    "coat_color": "Reddish dun",
+    "body_size": "Medium",
+    "horn_shape": "Short and thick",
+    "ears": "Medium length",
+    "distinctive_features": ["Loose skin", "Deep body"]
+  },
+  "productivity": {
+    "milk_yield_liters_per_day": 10,
+    "milk_yield_liters_per_lactation": 2700,
+    "milk_fat_percentage": 4.8,
+    "milk_protein_percentage": 3.5,
+    "lactation_period_days": 280,
+    "calving_interval_days": 400
+  },
+  "reproduction": {
+    "age_at_first_calving_months": 34,
+    "gestation_period_days": 280,
+    "breeding_type": "Natural"
+  },
+  "adaptability": {
+    "climate": ["Hot climate"],
+    "disease_resistance": "High",
+    "terrain_suitability": ["Plains"],
+    "management_level": "Moderate"
+  },
+  "strengths": {
+    "draught_power": "Low",
+    "temperament": "Docile",
+    "endurance": "Medium"
+  },
+  "feeding": {
+    "daily_dry_matter_kg": {
+      "adult": 9,
+      "young": 4
+    },
+    "preferred_feed": ["Green fodder", "Lucerne", "Cottonseed cake"]
+  },
+  "health": {
+    "common_diseases": ["Tick fever"],
+    "vaccination_required": ["HS", "BQ"],
+    "lifespan_years": {
+      "average": 20,
+      "range": "18-22"
+    }
+  }
+}

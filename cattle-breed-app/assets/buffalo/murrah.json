@@ -1,0 +1,54 @@
+{
+  "breed_name": "Murrah",
+  "origin": {
+    "country": "India",
+    "state_region": "Haryana",
+    "history": "World’s best dairy buffalo breed."
+  },
+  "appearance": {
+    "coat_color": "Jet black",
+    "body_size": "Large",
+    "horn_shape": "Tightly curled",
+    "ears": "Medium",
+    "distinctive_features": ["Shiny skin", "Well-developed udder"]
+  },
+  "productivity": {
+    "milk_yield_liters_per_day": 14,
+    "milk_yield_liters_per_lactation": 3500,
+    "milk_fat_percentage": 7.5,
+    "milk_protein_percentage": 4.0,
+    "lactation_period_days": 300,
+    "calving_interval_days": 430
+  },
+  "reproduction": {
+    "age_at_first_calving_months": 36,
+    "gestation_period_days": 310,
+    "breeding_type": "Natural & AI"
+  },
+  "adaptability": {
+    "climate": ["Hot humid", "Moderate"],
+    "disease_resistance": "High",
+    "terrain_suitability": ["Plains"],
+    "management_level": "High"
+  },
+  "strengths": {
+    "draught_power": "Medium",
+    "temperament": "Calm",
+    "endurance": "High"
+  },
+  "feeding": {
+    "daily_dry_matter_kg": {
+      "adult": 12,
+      "young": 5
+    },
+    "preferred_feed": ["Green fodder", "Sugarcane tops", "Oil cakes"]
+  },
+  "health": {
+    "common_diseases": ["HS"],
+    "vaccination_required": ["FMD", "HS"],
+    "lifespan_years": {
+      "average": 18,
+      "range": "16-20"
+    }
+  }
+}
